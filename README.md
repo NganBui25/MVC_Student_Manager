@@ -1,8 +1,8 @@
 -Hướng dẫn tạo database
-    -- Tạo database dulieu_mvc
-    CREATE DATABASE IF NOT EXISTS dulieu_mvc 
-    CHARACTER SET utf8mb4 
-    COLLATE utf8mb4_unicode_ci;
+        -- Tạo database dulieu_mvc
+            CREATE DATABASE IF NOT EXISTS dulieu_mvc 
+            CHARACTER SET utf8mb4 
+            COLLATE utf8mb4_unicode_ci;
     
     USE dulieu_mvc;
     
